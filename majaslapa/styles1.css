@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #252529;
+  }
+  
+  header {
+    text-align: center;
+    padding: 20px;
+    color: #ffffff;
+    background: linear-gradient(#43434a, #333338);
+    border-radius: 30px;
+    margin-top: 20px;
+  }
+  
+  p {
+    font-size: clamp(20px, 20vw, 20px);
+    color: #ffffff;
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+  
+  img {
+        width: 40%;
+        height: 100px;
+        object-fit: cover;
+        margin-bottom: 10px;
+        border-radius: 8px; 
+      }
+  
